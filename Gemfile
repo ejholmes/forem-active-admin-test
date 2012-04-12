@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'sqlite3'
 gem 'formtastic', '2.0.2'
 gem 'activeadmin'
+gem 'forem', :git => "git://github.com/radar/forem.git"
 
 
 # Gems used only for assets and not required
