@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'sqlite3'
 gem 'formtastic', '2.0.2'
 gem 'activeadmin'
+gem 'forem-theme-orange', :git => "git://github.com/radar/forem-theme-orange.git"
 gem 'forem', :git => "git://github.com/radar/forem.git"
 
 

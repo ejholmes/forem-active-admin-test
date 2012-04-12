@@ -1,4 +1,10 @@
 GIT
+  remote: git://github.com/radar/forem-theme-orange.git
+  revision: 8e78cb15c986d8d7b4322fb92f5fc87d5ca670ad
+  specs:
+    forem-theme-orange (0.0.1)
+
+GIT
   remote: git://github.com/radar/forem.git
   revision: 01315f29fcf9da77a9028dc44d4afa8b01558a42
   specs:
@@ -175,6 +181,7 @@ DEPENDENCIES
   activeadmin
   coffee-rails (~> 3.2.1)
   forem!
+  forem-theme-orange!
   formtastic (= 2.0.2)
   jquery-rails
   rails (= 3.2.3)
